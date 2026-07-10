@@ -1,17 +1,17 @@
-# 💸 SpendWise – Smart Expense Tracker
+# SpendWise – Smart Expense Tracker
 
-## 📌 Overview
+## Overview
 
 SpendWise is a simple and user-friendly expense tracking application designed to help users monitor daily spending, manage budgets, and gain insights into financial habits. It promotes better money management through clarity and awareness.
 
-## 🎯 Objectives
+## Objectives
 
 * Track daily income and expenses
 * Categorize expenses for better analysis
 * Provide clear insights into spending patterns
 * Encourage mindful and responsible spending
 
-## 🛠️ Features
+## Features
 
 * Add, edit, and delete expenses
 * Categorize expenses (Food, Travel, Shopping, Bills, etc.)
@@ -19,38 +19,39 @@ SpendWise is a simple and user-friendly expense tracking application designed to
 * Monthly and category-wise summaries
 * Simple, clean, and intuitive interface
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend (optional):** Node.js / Python
 * **Database:** Local Storage / MongoDB / SQLite
 * **Tools:** VS Code, Cursor
 
-## 🚀 How It Works
+## How It Works
 
-1. User enters income details
-2. User adds expenses with amount, date, and category
-3. SpendWise stores and organizes the data
-4. Insights and summaries are displayed clearly
+1. User enters income details.
+2. User adds expenses with amount, date, and category.
+3. SpendWise stores and organizes the data.
+4. Insights and summaries are displayed clearly.
 
-## 📊 Use Case
+## Use Case
 
 SpendWise is useful for students, working professionals, and families who want a simple way to track expenses and improve financial planning.
 
-## 🌟 Advantages
+## Advantages
 
 * Easy to use
 * Helps reduce unnecessary spending
 * Saves time and improves budgeting discipline
 * Effective for personal finance management
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Graphical analysis (charts & graphs)
 * Cloud sync and authentication
 * Expense reminders
 * Export reports (PDF/Excel)
 
-## 📄 Conclusion
+## Conclusion
 
 SpendWise is an effective tool for personal expense management. By structuring how users track spending, it helps them make smarter financial decisions and build healthy money habits.
+
