@@ -1,17 +1,5 @@
 # SpendWise – Smart Expense Tracker
 
-## Overview
-
-SpendWise is a simple and user-friendly expense tracking application designed to help users monitor daily spending, manage budgets, and gain insights into financial habits. It promotes better money management through clarity and awareness.
-
-## Objectives
-
-* Track daily income and expenses
-* Categorize expenses for better analysis
-* Provide clear insights into spending patterns
-* Encourage mindful and responsible spending
-
-## Features
 
 * Add, edit, and delete expenses
 * Categorize expenses (Food, Travel, Shopping, Bills, etc.)
